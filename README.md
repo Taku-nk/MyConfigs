@@ -1,4 +1,4 @@
-# vim_config
+# MyConfigs
 This is my vim configuration
 - YCM code completion
 - C++, Python development
